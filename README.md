@@ -19,15 +19,21 @@ Dillinger uses a number of open source projects to work properly:
 * [bin/] - Contiene la versión ejecutable para Windows de la tarea.
 * [build/] - Contiene los archivos generados por el compilador Visual Studio 2015.
 * [doc/] - Contiene la documentación empleada para la elaboracion de la asignació.
+
+
 - - - - 
 ### Ejecucion del Programa
 
 Dentro de la carpeta [bin/] se encuentra el archivo ejecutable del proyecto, basta con descargarlo y ejecutar este programa. Esto mostrará una interfaz grafica bastante intuitiva que permitirá cargar la imagen y aplicar las distintas operaciones requeridas.
 
 ![Screenshot de la Aplicacion](./doc/Screenshot.png "Screenshot")
+
+
 - - - - 
 ### Versión
 1.0
+
+
 - - - - 
 ### Autor
 **Nombre:** Jorge Taoufik Khabazze Maspero  
