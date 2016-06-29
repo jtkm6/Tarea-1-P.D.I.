@@ -7,6 +7,8 @@ preferencia que permita leer un archivo en formato .bmp sin compresion y pueda s
 > - Realizar las operaciones de espejo horizontal y vertical.
 
 >Las imagenes pueden ser con paleta de colores (1, 4, 8 bits) o sin paleta (24 bits). El lenguaje de programacion seleccionado debe permitir leer archivos en formato binario para la lectura y ofrecer una interfaz de usuario adecuada para anadir controles. El sistema operativo de su aplicacion debe ser Windows o basado en Linux.
+
+
 - - - - 
 ### Estructura del Repositorio
 
