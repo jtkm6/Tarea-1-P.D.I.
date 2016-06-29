@@ -1,0 +1,11 @@
+C:\Users\jtkm6\Documents\Visual Studio 2015\Projects\PDI Tarea 1\PDI Tarea 1\bin\Release\PDI Tarea 1.exe.config
+C:\Users\jtkm6\Documents\Visual Studio 2015\Projects\PDI Tarea 1\PDI Tarea 1\bin\Release\PDI Tarea 1.exe
+C:\Users\jtkm6\Documents\Visual Studio 2015\Projects\PDI Tarea 1\PDI Tarea 1\bin\Release\PDI Tarea 1.pdb
+C:\Users\jtkm6\Documents\Visual Studio 2015\Projects\PDI Tarea 1\PDI Tarea 1\bin\Release\es-VE\PDI Tarea 1.resources.dll
+C:\Users\jtkm6\Documents\Visual Studio 2015\Projects\PDI Tarea 1\PDI Tarea 1\obj\Release\PDI_Tarea_1.PrincipalPanel.resources
+C:\Users\jtkm6\Documents\Visual Studio 2015\Projects\PDI Tarea 1\PDI Tarea 1\obj\Release\PDI_Tarea_1.Properties.Resources.resources
+C:\Users\jtkm6\Documents\Visual Studio 2015\Projects\PDI Tarea 1\PDI Tarea 1\obj\Release\PDI_Tarea_1.PrincipalPanel.es-VE.resources
+C:\Users\jtkm6\Documents\Visual Studio 2015\Projects\PDI Tarea 1\PDI Tarea 1\obj\Release\PDI Tarea 1.csproj.GenerateResource.Cache
+C:\Users\jtkm6\Documents\Visual Studio 2015\Projects\PDI Tarea 1\PDI Tarea 1\obj\Release\es-VE\PDI Tarea 1.resources.dll
+C:\Users\jtkm6\Documents\Visual Studio 2015\Projects\PDI Tarea 1\PDI Tarea 1\obj\Release\PDI Tarea 1.exe
+C:\Users\jtkm6\Documents\Visual Studio 2015\Projects\PDI Tarea 1\PDI Tarea 1\obj\Release\PDI Tarea 1.pdb
